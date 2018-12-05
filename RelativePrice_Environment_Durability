@@ -1,0 +1,7 @@
+Relative Price -> How expensive is the product according to the competitors Price. 
+	( 0 being same price as the competitor)
+Environmental impact -> Is the product environment friendly?
+	(0 -> No
+	1 -> Yes)
+Standard Durability -> Do our customers return the product often?
+	(0 being No product return)
